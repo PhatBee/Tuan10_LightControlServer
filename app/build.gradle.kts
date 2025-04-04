@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "vn.phatbee.lightcontrolserver"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "vn.phatbee.lightcontrolserver"
