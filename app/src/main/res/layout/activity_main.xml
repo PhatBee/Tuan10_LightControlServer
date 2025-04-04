@@ -56,4 +56,12 @@
         android:layout_marginTop="32dp"
         android:background="#888888" />
 
+    <ImageView
+        android:id="@+id/ivFlashlightIcon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_flashlight_off"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="32dp"/>
+
 </LinearLayout>
